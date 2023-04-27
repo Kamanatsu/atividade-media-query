@@ -1,0 +1,63 @@
+@media screen and (min-width:320px){
+    .janela{
+        width: 100%;
+        height: 100%;
+        background-color: black;
+    }
+}
+
+@media screen and (min-width:480px){
+    .janela{
+        width: 100%;
+        height: 100%;
+        background-color: lightblue;
+    }
+}
+
+@media screen and (min-width:600px){
+    .janela{
+        width: 100%;
+        height: 100%;
+        background-color: lightgreen;
+    }
+}
+
+@media screen and (min-width:768px){
+    .janela{
+        width: 100%;
+        height: 100%;
+        background-color: lightyellow;
+    }
+}
+
+@media screen and (min-width:800px){
+    .janela{
+        width: 100%;
+        height: 100%;
+        background-color: brown;
+    }
+}
+
+@media screen and (min-width:1024px){
+    .janela{
+        width: 100%;
+        height: 100%;
+        background-color: darkblue;
+    }
+}
+
+@media screen and (min-width:1280px){
+    .janela{
+        width: 100%;
+        height: 100%;
+        background-color: darkgreen;
+    }
+}
+
+@media screen and (min-width:1440px){
+    .janela{
+        width: 100%;
+        height: 100%;
+        background-color: darkred;
+    }
+}
